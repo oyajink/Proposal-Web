@@ -1,2 +1,2 @@
 # Proposal-Web
-Cari Client Yang Buruh Jasa Web
+Cari Client Yang Butuh Jasa Web
